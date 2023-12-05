@@ -1,43 +1,25 @@
-# Meet Minas
+# Curso de HTML - Meet Minas
 
-Nesse repositório você encontra os *starter files* de um projeto feito com HTML, CSS e Javascript. 
+Bem-vindo ao curso de HTML Meet Minas do canal do youtube Dev Inkasa! Este repositório contém os arquivos de exemplo e o código-fonte utilizado no curso para criar uma página web simples sobre o Meet Minas, uma agência de viagens fictícia.
 
-Meet Minas é uma empresa ~~fictícia~~ de viagens, especializada em viagens pelo estado de Minas Gerais. Esse projeto consiste de um site responsivo utilizando a metodologia mobile-first, ou seja, ele é desenvolvido primeiro para dispositivos mobile e depois para telas maiores. Esse site é composto por Navbar, Hero Section, Sobre Nós, Nossos Diferenciais, Nossos Pacotes, Newsletter, Galeria e Footer.
+## Descrição do Curso
 
-- Você pode conferir o resultado final do projeto [clicando aqui](https://meetminas.surge.sh/).
-- Assista ao passo a passo (dividido em 14 partes) [clicando aqui](https://www.youtube.com/playlist?list=PL28O_hEAqjAvgaJOpfkmnOPHarc546QOt).
+Este curso tem como objetivo ensinar os fundamentos do HTML, a linguagem de marcação padrão para a construção de páginas web. Ao longo do curso, você aprenderá como estruturar documentos HTML, criar links, incorporar multimídia, e utilizar as principais tags e elementos.
 
-![Preview](/preview.png)
+## Estrutura do Repositório
 
-## Conteúdo extra
+- **index.html**: O arquivo principal que representa a página inicial do Meet Minas.
+- **assets/**: Pasta contendo imagens utilizadas na página.
+- **css/styles.css**: Arquivo CSS para estilizar a página.
+- **js/scripts.js**: Arquivo JavaScript para adicionar funcionalidades interativas (slider de imagens).
 
-Esse projeto possui conteúdos exclusivos, que são:
+## Playlist do Curso
 
-- Ebook explicando todo o projeto passo a passo, com mais de 120 snippets (trechos) de códigos explicados com imagens
-- Código completo do projeto
-- Código completo do projeto completamente comentado
-- Vídeo extra ensinando como fazer com que o usuário mova a galeria com eventos de toque no mobile (passando o mouse sobre a tela).
-- Arquivo Figma com o layout do projeto
+https://www.youtube.com/playlist?list=PL28O_hEAqjAvgaJOpfkmnOPHarc546QOt
 
-Caso você deseje ter acesso a todo esse material extra, além de materiais de outros projetos, por favor considere fazer parte da minha comunidade e apoiar o meu trabalho [clicando aqui](https://inkasadev.alumy.com/). Muito obrigado!
+## Instruções para Execução
 
-## O que você irá aprender/praticar durante esse projeto:
+1. Faça o clone deste repositório:
 
-- CSS
-  - Variáveis CSS
-  - Unidades CSS (rem, %, vh, px)
-  - Metologia BEM
-  - Media Queries
-  - Flexbox
-
-- Javascript
-  - .querySelector()
-  - .querySelectorAll()
-  - .addEventListener()
-  - .add()
-  - .remove()
-  - .contains()
-
-E muito mais.
-
-Eu adoraria ver seu projeto finalizado. Por favor, marque-me no [Youtube](https://youtube.com/inkasadev), [Instagram](https://www.instagram.com/inkasadev/) (@inkasadev) ou [Twitter](https://twitter.com/inkasadev) (@inkasadev). 😉
+   ```bash
+   git clone https://github.com/andrejustomoraes/meet-minas.git
